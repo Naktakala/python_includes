@@ -1,0 +1,1 @@
+Jean personal folder structure.
